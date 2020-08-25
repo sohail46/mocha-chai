@@ -1,0 +1,15 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "Simple app for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Sohail Shaikh",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
